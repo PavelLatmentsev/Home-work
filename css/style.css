@@ -1,0 +1,171 @@
+* {
+    box-sizing: border-box;
+}
+p,h1,h2,h3,h4{
+    margin:0;
+}
+
+body {
+    font-family: "Manrope", sans-serif;
+    color: #18191F;
+}
+.conteiner {
+    width: 920px;
+    height: 696px;
+    background-color: #D5FAFC;
+    margin: 0 auto;
+}
+/* Задал параметры 1 блоку*/
+.description {
+    width: 445px;
+
+}
+.description h2 {
+font-weight: 700;
+font-size: 46px;
+line-height: 64px;
+}
+.description p {
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+margin-top: 8px;
+}
+/* Задал параметры hubspot блоку*/
+.hubspot {
+    width: 350px;
+    background-color: #FFFFFF;
+    margin-left: 95px;
+    margin-top: 24px;
+    display: inline-block;
+    border-radius: 8px;
+}
+.hubspot img {
+    padding-left: 32px;
+    padding-top: 32px;
+}
+.hubspot-text {
+    width: 254px;
+    margin-top: 32px;
+    margin-left: 64px;
+    margin-bottom: 32px;
+}
+.hubspot-text p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+}
+.hubspot-text h4 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 20px;
+}
+.hubspot-text span {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #969BAB;
+}
+
+.left-box, .right-box {
+    width: 445px;
+    display: inline-block;
+    vertical-align:top;
+}
+/* Задал параметры airbnb блоку*/
+.right-box {
+    margin-left: -4px;
+    
+}
+.airbnb {
+    width: 445px;
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 8px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 48px;
+   
+    
+}
+.airbnb-text {
+    width: 349px;
+    margin-top: 32px;
+    margin-left: 64px;
+    margin-bottom: 28px;
+}
+.airbnb img {
+    padding-left: 32px;
+    padding-top: 32px;
+    
+    
+}
+
+.airbnb-text p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.airbnb-text h4 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 24px;
+}
+.airbnb-text span {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #969BAB;
+        
+    }
+
+    .book {
+        width: 350px;
+        background-color: #fff;
+        border-radius: 8px;
+        display:inline-block;
+        margin-top: 32px;
+        margin-left: 30px;
+        
+    }
+    .book img {
+        margin-left: 32px;
+        margin-top: 32px;
+    }
+
+    .book-text {
+       width: 254px;
+       margin-top: 32px;
+       margin-left: 64px;
+       margin-bottom: 28px;
+    }
+    .book-text p {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 32px;
+     }
+     .book-text h4 {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 24px;
+     }
+     .book-text span {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+        color:#969BAB;
+     }
